@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2",
+    "@hapipal/schmervice": "^2.0.0"
+  }
+}
